@@ -1,0 +1,27 @@
+
+.hero__text {
+    margin-top: 64px;
+    margin-bottom: 64px;
+    font-size: 40px;
+    line-height: 56px;
+    color: #fff;
+    font-weight: 800px;
+    text-align: center;
+}
+
+.hero__logo {
+    margin: 0 auto;
+    height: 100px;
+    display: block;
+}
+.hero {
+    padding-top: 64px;
+    padding-bottom: 100px;
+    background-image: url('../images/fundo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60%;
+
+    
+
+}
